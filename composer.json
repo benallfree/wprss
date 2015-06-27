@@ -1,0 +1,13 @@
+{
+    "name": "benallfree.com/eapn",
+    "require": {
+        "nesbot/carbon": "^1.19",
+        "oyejorge/less.php": "v1.7.0.4"
+    },
+    "authors": [
+        {
+            "name": "Ben Allfree",
+            "email": "ben@benallfree.com"
+        }
+    ]
+}
